@@ -35,5 +35,35 @@ Make sure you have a basic text editor and a modern web browser to view the webs
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/akash7ashy/SpaceOdyssey.git 
+   bash
+   git clone https://github.com/your-username/dark-ocean-of-life-website.git
+   
+
+2. Navigate into the project directory:
+
+   bash
+   cd dark-ocean-of-life-website
+   
+
+3. Open the index.html file in your browser to explore the site:
+ bash
+   open index.html
+   
+
+### Running the Website Locally
+
+The website is a static HTML/CSS/JS project, so no additional server setup is required. Simply open the index.html file in any web browser.
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements to the content, design, or functionality are welcome!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, feel free to reach out via email at [your-email@example.com].
+
+```
