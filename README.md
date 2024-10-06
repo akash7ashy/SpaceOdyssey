@@ -36,7 +36,7 @@ Make sure you have a basic text editor and a modern web browser to view the webs
 1. Clone the repository to your local machine:
 
    bash
-   git clone https://github.com/your-username/dark-ocean-of-life-website.git
+   git clone https://github.com/akash7ashy/SpaceOdyssey
    
 
 2. Navigate into the project directory:
