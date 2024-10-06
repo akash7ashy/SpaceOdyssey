@@ -54,16 +54,3 @@ Make sure you have a basic text editor and a modern web browser to view the webs
 
 The website is a static HTML/CSS/JS project, so no additional server setup is required. Simply open the index.html file in any web browser.
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements to the content, design, or functionality are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries, feel free to reach out via email at [your-email@example.com].
-
-```
